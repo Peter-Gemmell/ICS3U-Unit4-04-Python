@@ -86,7 +86,7 @@
                 <mxCell id="15" value="&lt;span&gt;If guess_number &amp;gt; mystery_number&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="150" y="410" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="21" value="&lt;span&gt;print &quot;You guessed correct&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="21" value="&lt;span&gt;print &quot;You guessed correct&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="410" y="310" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="22" value="&lt;span class=&quot;pl-en&quot; style=&quot;text-align: left ; box-sizing: border-box ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span class=&quot;pl-token&quot; style=&quot;box-sizing: border-box&quot;&gt;print&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left ; color: rgb(36 , 41 , 47) ; background-color: rgb(255 , 255 , 255)&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;pl-s&quot; style=&quot;text-align: left ; box-sizing: border-box ; background-color: rgb(255 , 255 , 255)&quot;&gt;&quot;That number is low, guess higher.&quot;&lt;/span&gt;&lt;span style=&quot;text-align: left ; color: rgb(36 , 41 , 47) ; background-color: rgb(255 , 255 , 255)&quot;&gt;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
